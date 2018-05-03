@@ -1,0 +1,28 @@
+{
+  "name": "one-moment",
+  "version": "1.0.0",
+  "description": "Node module who to import safely moment.js library",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoine-Mace/one-moment.git"
+  },
+  "keywords": [
+    "momentjs",
+    "datetime",
+    "import",
+    "node",
+    "module",
+    "javascript"
+  ],
+  "author": "Antoine Mace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antoine-Mace/one-moment/issues"
+  },
+  "homepage": "https://github.com/Antoine-Mace/one-moment#readme",
+  "dependencies": {
+    "simple-load-script": "^1.0.2"
+  }
+}
