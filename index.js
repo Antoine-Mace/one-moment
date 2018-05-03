@@ -9,7 +9,7 @@ const main = (callback) => {
 				resolve('moment.js as been imported')
 				return callback(null, ref)
 			})
-			.catch((err) => {
+			.catch(() => {
 				reject('something went wrong while importing moment.js')
 				return callback('moment.js library was not imported', null)
 			})
