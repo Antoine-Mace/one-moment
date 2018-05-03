@@ -1,6 +1,6 @@
 {
   "name": "one-moment",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Node module who to import safely moment.js library",
   "main": "index.js",
   "scripts": {},
