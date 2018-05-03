@@ -4,7 +4,7 @@ const loadScript = require('simple-load-script');
 
 const main = (callback) => {
 	return new Promise((resolve, reject) => {
-		loadScript('https://momentjs.com/downloads/moment.js')
+		loadScript('https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.min.js')
 			.then((ref) => {
 				resolve('moment.js as been imported')
 				return callback(null, ref)
