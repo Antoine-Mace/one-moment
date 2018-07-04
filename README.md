@@ -1,3 +1,4 @@
+[![Download](https://img.shields.io/npm/dt/one-moment.svg)](https://www.npmjs.com/package/one-moment)
 # One moment
 Import moment.js dynamically into your node project.
 
